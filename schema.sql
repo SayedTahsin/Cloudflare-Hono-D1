@@ -6,4 +6,3 @@ create table customers
 );
 
 insert into customers (name , email) values ('sayed','tahsin@gmail.com');
-insert into customers (name , email) values ('tahsin','sayed@gmail.com');
